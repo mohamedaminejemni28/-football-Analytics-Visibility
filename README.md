@@ -1,7 +1,3 @@
-Bien sûr Mohamed Amine ! Voici un exemple de `README.md` professionnel que tu peux utiliser sur GitHub pour ton projet de **Football Detection** (détection et tracking de joueurs, calcul de vitesse, possession, etc.). N'hésite pas à l’adapter selon les outils et résultats que tu as obtenus :
-
----
-
 # ⚽ Football Detection & Tracking
 
 Ce projet implémente un système complet de détection, suivi et analyse de joueurs de football dans des vidéos de matchs. Il utilise la détection d'objets (YOLO), le tracking multi-objets (ByteTrack), et des outils d’analyse comme le calcul de la vitesse des joueurs et la possession du ballon.
